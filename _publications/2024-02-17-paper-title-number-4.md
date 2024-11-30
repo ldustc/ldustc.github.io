@@ -2,7 +2,7 @@
 title: "Optimizing the Cost-Benefit of Diagnostic Tests in Clinical Decision-Making"
 collection: publications
 category: review
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: ldustc.github.io/publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-12-01
 venue: 'GitHub Journal of Bugs'
