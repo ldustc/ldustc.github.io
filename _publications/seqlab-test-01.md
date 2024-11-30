@@ -2,7 +2,7 @@
 title: "Optimizing the Cost-Benefit of Diagnostic Tests in Clinical Decision-Making"
 collection: publications
 category: review
-permalink: ldustc.github.io/publication/seqlab-test-01
+permalink: ldustc.github.io/publication/seqlab-test-01.md
 date: 2024-12-01
 paperurl: 'http://ldustc.github.io/files/paper1.pdf'
 ---
