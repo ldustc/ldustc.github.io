@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of Gifted Young](https://sgy.ustc.edu.cn/), [USTC](https://www.ustc.edu.cn/). My research interest includes statistics, optimization, machine learning, and deep learning.
+I'm a fourth year undergraduate student from [School of Gifted Young](https://sgy.ustc.edu.cn/), [USTC](https://www.ustc.edu.cn/). My research interest includes statistics, optimization, machine learning, and deep learning.
 
 You can find my CV here: [Dong's Curriculum Vitae](../assets/CV.pdf).
 
